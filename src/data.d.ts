@@ -1,0 +1,3 @@
+type AnimalType = {
+    animal: string
+}
